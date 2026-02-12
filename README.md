@@ -9,3 +9,8 @@ Manipuler les conteneurs flexibles pour créer un header, un catalogue et un foo
 # Technologies utilisées
 HTML5 : Structuration sémantique de la page.
 CSS3 : Utilisation exclusive de Flexbox (sans frameworks).
+
+##  Démo du projet
+
+👉 [Voir la démo](https://slamiath.github.io/cino-lingerie-v1-interface/)
+
